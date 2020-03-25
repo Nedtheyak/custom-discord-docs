@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Task 1
+title: Setting Up A Discord Bot
 nav_order: 2
 ---
 
-# Configuration
+# Setting Up A Discord Bot
 {: .no_toc }
 
 
