@@ -16,7 +16,7 @@ And now, for a great quote on acting from the infamous [Robin Williams](https://
 
 I like penguins. 
 
-![Image of a cute penguin](images/assets/penguin.jpg "Penguins are great")
+![Image of a cute penguin](assets/images/penguin.jpg "Penguins are great")
 
 
 ## Tables are fun
