@@ -17,11 +17,11 @@ Bots are great as a regular point of discussion, or a means of moderating your s
 
     You'll need to find the link to invite the bot to the server. If your bot is from [top.gg](https://top.gg/), the page will have a clearly marked "Invite" button:
 
-    <img src="https://kaydens.ca/user-docs-discord/assets/images/topgg_invite_button.png" alt="Bot invite button on the website top.gg" height="220px" />
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/topgg_invite_button.png" alt="Bot invite button on the website top.gg" style="height: 220px" />
 
     If you are looking at a custom website for a bot, look for a button or link labelled "Invite to Discord," "Add to Server," or similar phrases. Here's an example:
 
-    <img src="https://kaydens.ca/user-docs-discord/assets/images/invite_to_discord_button.png" alt="Example of a button to invite a bot. Text: Invite to Discord" height="50px" />
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/invite_to_discord_button.png" alt="Example of a button to invite a bot. Text: Invite to Discord" style="height: 50px" />
 
 
 You should now be ready to use your bot! If the bot stops responding, give it some time to come back online, then contact the developers if it remains offline. 
