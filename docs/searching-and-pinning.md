@@ -25,12 +25,13 @@ Let's presume we are searching for an image sent by another user.
     
     You will see an abundant amount of options to choose from. To find an image, we will use the **has:** option.
 
-    <img src = "https://kaydens.ca/user-docs-discord/assets/images/search_has.PNG" alt="Search bar with displayed options."/>
+    <img src = "https://kaydens.ca/user-docs-discord/assets/images/search-has.PNG" alt="Search bar with displayed options."/>
 
+    <img src = "https://kaydens.ca/user-docs-discord/assets/images/has-image.PNG" alt="Search bar with selected has option."/>
 
-    <img src = "https://kaydens.ca/user-docs-discord/assets/images/has_image.PNG" alt="Search bar with selected has option."/>
+    Once we've selected our option, we can further filter our selection by 
 
-    <img src = "https://kaydens.ca/user-docs-discord/assets/images/displayed_images.PNG" alt="Searched images."/>
+    <img src = "https://kaydens.ca/user-docs-discord/assets/images/displayed-images.PNG" alt="Searched images."/>
 
 ## Pinning a Message
 
