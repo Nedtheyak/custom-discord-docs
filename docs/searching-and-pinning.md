@@ -15,5 +15,6 @@ The purpose of this section is show you how to both search for specific messages
 
 ## Searching for a Specific Message
 
+
 ## Pinning a Message
 
