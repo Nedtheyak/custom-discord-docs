@@ -7,7 +7,7 @@ nav_order: 2
 # Setting Up A Discord Bot On A Server
 {: .no_toc }
 
-When you're first setting up your Discord server, you may want to add something interesting to do when not conversing with other members. You may also be looking for a regular point of discussion, or a means of moderating and keeping your server under your control. Bots are a great way to do this, and in this guide we will show you how to add one.
+Bots are great as a regular point of discussion, or a means of moderating your server. They can help keep your server under control, and can have fun activities. In this guide, we will show you how to add a bot to your server.
 
 1. Select a bot to add. 
 
