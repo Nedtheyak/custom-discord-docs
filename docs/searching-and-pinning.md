@@ -27,6 +27,7 @@ Let's presume we are searching for an image sent by another user.
 
     <img src = "https://kaydens.ca/user-docs-discord/assets/images/search_has.PNG" alt="Search bar with displayed options."/>
 
+
     <img src = "https://kaydens.ca/user-docs-discord/assets/images/has_image.PNG" alt="Search bar with selected has option."/>
 
     <img src = "https://kaydens.ca/user-docs-discord/assets/images/displayed_images.PNG" alt="Searched images."/>
