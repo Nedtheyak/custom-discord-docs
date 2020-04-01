@@ -7,13 +7,23 @@ nav_order: 4
 # Searching And Pinning Messages
 {: .no_toc }
 
-In Discord, it is possible to search for and pin any prior messages sent. Discord keeps a log of all messages you and others have sent, and it is accessible at any moment if you're within channel that it was sent.
+In Discord, it is possible to search for and pin any prior messages sent. Discord keeps a log of all messages you and others have sent, and it is accessible at any moment if you're within channel or conversation that it was sent.
 
-The purpose of this section is show you how to both search for specific messages, as well as pin them for easy access in the channel.
+The purpose of this section is show you how to both search for specific messages, as well as pin them for easy access in the channel or conversation.
 
 ---
 
 ## Searching for a Specific Message
+
+Let's presume we are searching for an image sent by another user.
+
+1. Open up Discord and select a server or direct message conversation.
+
+2. Navigate to the search bar at the top right of the application.
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/search.PNG" alt="Search bar for the Discord Application."/>
+    
+    You will see an abundant amount of options to choose from.
 
 
 ## Pinning a Message
