@@ -51,4 +51,20 @@ Let's assume we are searching for an image sent by another user.
 
 ## Pinning a Message
 
-You're able to pin messages in a channel or conversation if you have the permissions to do so.
+You're able to pin messages in a channel or conversation if you have the permissions to do so. Pinning messages will allow you and other users to quickly view and/or jump back to a prior message.
+
+1. Hover over the top right of the message you want to be pinned and click the three dots icon.
+
+<img src="https://kaydens.ca/user-docs-discord/assets/images/three_dots.PNG" alt="Three grey dots donoting more options."/>
+
+2. Navigate the dropdown menu and select the `Pin Message` option.
+
+<img src="https://kaydens.ca/user-docs-discord/assets/images/pin_option.PNG" alt="The pin option in the dropdown menu."/>
+
+3. You will be given a prompt to pin the message, accept it and then navigate to the pin icon top right of the application.
+
+<img src="https://kaydens.ca/user-docs-discord/assets/images/select_the_pinning_option.PNG" alt="Pin prompt."/>
+
+4. Clicking it will reveal that your message is now pinned.
+
+<img src="https://kaydens.ca/user-docs-discord/assets/images/pinned_message.PNG" alt="Showing the pinned message."/>
