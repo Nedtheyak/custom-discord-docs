@@ -15,7 +15,7 @@ The purpose of this section is show you how to both search for specific messages
 
 ## Searching for a Specific Message
 
-Let's presume we are searching for an image sent by another user.
+Let's assume we are searching for an image sent by another user.
 
 1. Open up Discord and select a server or direct message conversation.
 
@@ -25,13 +25,23 @@ Let's presume we are searching for an image sent by another user.
     
     You will see an abundant amount of options to choose from. To find an image, we will use the **has:** option.
 
-    <img src = "https://kaydens.ca/user-docs-discord/assets/images/search-has.PNG" alt="Search bar with displayed options."/>
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/search-has.PNG" alt="Search bar with displayed options."/>
 
-    <img src = "https://kaydens.ca/user-docs-discord/assets/images/has-image.PNG" alt="Search bar with selected has option."/>
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/has-image.PNG" alt="Search bar with selected has option."/>
 
-    Once we've selected our option, we can further filter our selection by 
+    Once we've selected our option, we can further filter our selection by selecting what the message must contain. Here, we pick that the message must contain an image.
 
-    <img src = "https://kaydens.ca/user-docs-discord/assets/images/displayed-images.PNG" alt="Searched images."/>
+    After picking these two filtering options, any messages that meet the requirements will be displayed on a sidebar on the right side of the application.
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/displayed-images.PNG" alt="Searched images."/>
+
+    You can now scroll through any past messages to find the message you're looking for. Clicking any images, videos or GIFs in the side bar will enlarge them in the application so you can view them easier.
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/resize.PNG" al="Enlarged image."/>
+
+    If you find the message, you can immediately jump to it by hovering your mouse over the top right corner and pressing the jump icon that shows up.
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/jump-to-message.PNG" al="Jumping to a Discord message."/>
 
 ## Pinning a Message
 
