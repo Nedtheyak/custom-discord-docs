@@ -20,6 +20,7 @@ In a server, roles are often seen as one of the most important tools to enforce 
 1. **Open up Discord and navigate to a server that you have administrative powers in, or create a new server.**
 
     The roles options are within the server settings option, you can access it by clicking the small downwards arrow next to the server name. 
+
     <img src="https://kaydens.ca/user-docs-discord/assets/images/server_settings.PNG" alt="Server Settings option."/>
 
 2. **Go into the Roles menu by clicking the option in the sidebar.**
@@ -28,19 +29,27 @@ Once you've entered the Roles menu, you will see all the information concerning 
 
 Each section in this menu will be explained below.
 
+**Current Roles**
+
 <img src="https://kaydens.ca/user-docs-discord/assets/images/roles_menu_roles.PNG" alt="Roles."/>
 
 Any currently created roles are displayed here. Clicking any one of them will reveal the permissions and customization options for them.
 
+**Role Customization**
+
 <img src="https://kaydens.ca/user-docs-discord/assets/images/roles_menu_customization.PNG" alt="Customization."/>
 
 This is the customization section for roles. You can change the name, colour and a couple of supplementary options for visual and functional aid.
+
+**Role Permissions**
 
 <img src="https://kaydens.ca/user-docs-discord/assets/images/roles_menu_permissions.PNG" alt="Permissions."/>
 
 These are the general permissions for the role you've currently selected. You can grant or restrict them here.
 
 ### Adding And Customzing A New Role 
+
+
 
 ### Giving A Role To A User 
 
