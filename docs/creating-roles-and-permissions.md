@@ -49,7 +49,13 @@ These are the general permissions for the role you've currently selected. You ca
 
 ### Adding And Customzing A New Role 
 
+Now onto adding a new role, make sure you have an idea of what roles you want in your server first, and what permissions each one has.
 
+1. **Click the small `+` (plus-sign) symbol at the top right of the roles section.**
+
+2. **Select the new role and customize it.**
+
+    You will automatically be 
 
 ### Giving A Role To A User 
 
