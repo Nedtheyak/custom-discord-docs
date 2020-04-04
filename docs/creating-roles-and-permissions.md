@@ -31,21 +31,15 @@ Each section in this menu will be explained below.
 
 **Current Roles**
 
-<img src="https://kaydens.ca/user-docs-discord/assets/images/roles_menu_roles.PNG" alt="Roles."/>
-
 Any currently created roles are displayed here. Clicking any one of them will reveal the permissions and customization options for them.
 
 **Role Customization**
-
-<img src="https://kaydens.ca/user-docs-discord/assets/images/roles_menu_customization.PNG" alt="Customization."/>
 
 This is the customization section for roles. You can change the name, colour and a couple of supplementary options for visual and functional aid.
 
 **Role Permissions**
 
-<img src="https://kaydens.ca/user-docs-discord/assets/images/roles_menu_permissions.PNG" alt="Permissions."/>
-
-These are the general permissions for the role you've currently selected. You can grant or restrict them here.
+These are the general permissions for the role you've currently selected. There are also text and voice specific permissions. You can grant or restrict them here.
 
 ### Adding And Customzing A New Role 
 
@@ -53,9 +47,25 @@ Now onto adding a new role, make sure you have an idea of what roles you want in
 
 1. **Click the small `+` (plus-sign) symbol at the top right of the roles section.**
 
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/add_new_role.PNG" alt="Add a new role icon."/>
+
 2. **Select the new role and customize it.**
 
-    You will automatically be 
+    You will automatically select the new role once it has been created. You can now enable and disable permissions for the new role.
+
+    Here, we give an example of the permissions a regular server member without administrative powers may have.
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/test_role_general_permissions.PNG" alt="General Permissions."/>
+
+    These are the general permissions, our user can create invites to invite other users, change their nickname in the server and upload emotes.
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/test_role_text_permissions.PNG" alt="Text Permissions."/>
+
+    These are the text permissions, our user can send messages freely, post links and upload files from their device. They cannot freely pin or delete other users messasges though.
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/test_role_voice_permissions.PNG" alt="Voice Permissions."/>
+
+    These are the voice permissions, our user can connect to voice channels they have permission to join and speak in them. They cannot mute, deafen or move other members out of the voice channel, however.
 
 ### Giving A Role To A User 
 
