@@ -31,13 +31,19 @@ Each section in this menu will be explained below.
 
 **Current Roles**
 
+<img src="https://kaydens.ca/user-docs-discord/assets/images/roles_menu_roles.png" alt="Current Roles."/>
+
 Any currently created roles are displayed here. Clicking any one of them will reveal the permissions and customization options for them.
 
 **Role Customization**
 
+<img src="https://kaydens.ca/user-docs-discord/assets/images/roles_menu_customization.png" alt="Customization."/>
+
 This is the customization section for roles. You can change the name, colour and a couple of supplementary options for visual and functional aid.
 
 **Role Permissions**
+
+<img src="https://kaydens.ca/user-docs-discord/assets/images/roles_menu_permissions.png" alt="Permissions."/>
 
 These are the general permissions for the role you've currently selected. There are also text and voice specific permissions. You can grant or restrict them here.
 
@@ -67,8 +73,44 @@ Now onto adding a new role, make sure you have an idea of what roles you want in
 
     These are the voice permissions, our user can connect to voice channels they have permission to join and speak in them. They cannot mute, deafen or move other members out of the voice channel, however.
 
+3. **Once you're happy with your new role, select the `Save Changes` button at the bottom of the menu to save your changes.**
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/save_changes.PNG" alt="Save Changes button."/>
+
 ### Giving A Role To A User 
+
+Now that you've created your new role, you can assign it to a user in the server.
+
+1. **Select the user you want given the role and click the small `+` (plus-sign) symbol next to their current roles.**
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/select_the_user.PNG" alt="Adding a new role to a user."/>
+
+2. **Search up the role and assign it.**
+
+    We'll be assign this user the `Test Role` we just created/
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/adding_role_to_user.PNG" alt="Adding a new role to a user."/>
+
+    After we select the role, it will automatically be added to the user.
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/given_test_role.PNG" alt="Adding a new role to a user."/>
+
+    The user will now be given all permissions under the role. If a user has a role that enables some permissions that the role that was assigned to them disables, the permissions will **NOT** be disabled. Role permissions have an upwards hierarchy, the role with the most power will be the prevailing one used for user.
 
 ## Categories And Channels
 
+Discord also has an easy way to organize and manage text and voice channels. Categories allow you to group channels for certain topics into easily accessible folders on the side bar. You can grant or restrict permissions for the whole category or on a channel by channel basis.
+
 ### Accessing And Changing Permissions
+
+Just like for users, it is possible to change permissions for categories and channels. However, there are a much smaller host of permissions for them.
+
+Since categories and channels share very similar permissions, we will be editing the permissions on a channel. 
+
+1. **Right-click the channel you want to modify the permissions for.**
+
+2. **Select the permissions tab in the channel menu. Add the permissions as needed.**
+
+    You can add permissions based on roles, you can restrict reading and sending messages based on the role a user has.
+
+    
