@@ -37,14 +37,14 @@ We will start with general instructions for getting a bot on your server, and th
 function toggleSpoilers(tagId) {
     let targetSpoiler = document.getElementById(tagId);
     if (targetSpoiler.style.display == 'none') {
-        targetSpoiler.style.display = 'default';
-    } else if (targetSpoiler.style.display == 'default') {
+        targetSpoiler.style.display = 'inherit';
+    } else if (targetSpoiler.style.display == 'inherit') {
         targetSpoiler.style.display = 'none';
     }
 }
 </script>
 
-<button onclick="toggleSpoilers('test')">Show/Hide Images</button>
+<button style="color: black" onclick="toggleSpoilers('test')">Show/Hide Images</button>
 <span id='test' style='display: none'>hi</span>
 
 ## Setting up MEE6 (optional)
