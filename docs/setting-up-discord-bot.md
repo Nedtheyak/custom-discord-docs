@@ -35,7 +35,7 @@ We will start with general instructions for getting a bot on your server, and th
 
     ![Discord "Invite to server" panel for adding bots to servers. Interactable text: Select a server, cancel, continue](https://kaydens.ca/user-docs-discord/assets/images/invite_to_server_panel.png)
 
-<img src="https://kaydens.ca/user-docs-discord/assets/images/note.png" alt="Note." style="height: 50px"/> **Note:** If you choose not to provide certain permissions, the bot's functionality may be limited.
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/note.png" alt="Note." style="height: 50px"/> **Note:** If you choose not to provide certain permissions, the bot's functionality may be limited.
 4. **Select appropriate permissions.**
 
     To finish inviting the bot to your server, you may be prompted to provide it with permissions. 
@@ -46,7 +46,7 @@ We will start with general instructions for getting a bot on your server, and th
 
     You should see the bot in your member list on the right. 
 
-## Setting Up the Bot
+ ## Setting Up the Bot
 
 6. **Follow the bot's instructions (if applicable).**
 
@@ -101,7 +101,7 @@ If your bot is not responding as expected, here are some tips for reasonable mea
 
     Look in the support server for the bot. See if there is anyone asking about the same problem, or if there are any recent messages from staff regarding this issue.
 
-<img src="https://kaydens.ca/user-docs-discord/assets/images/warning.png" alt="Caution." style="height: 50px"/> **Caution**: Be very polite, and be careful not to mention (with the `@` symbol) people about your issue unless they explicitly ask for it. Your issue may be timely, but mentioning them will likely only annoy them. Follow their rules carefully, and you are much more likely to be helped.
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/warning.png" alt="Caution." style="height: 50px"/> **Caution**: Be very polite, and be careful not to mention (with the `@` symbol) people about your issue unless they explicitly ask for it. Your issue may be timely, but mentioning them will likely only annoy them. Follow their rules carefully, and you are much more likely to be helped.
 
 5. **Ask for help from staff.**
 
