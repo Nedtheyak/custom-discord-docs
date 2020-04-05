@@ -87,7 +87,7 @@ Now that you've created your new role, you can assign it to a user in the server
 
 2. **Search up the role and assign it.**
 
-    We'll be assign this user the `Test Role` we just created/
+    We'll be assign this user the `Test Role` we just created.
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/adding_role_to_user.PNG" alt="Adding a new role to a user."/>
 
@@ -109,7 +109,7 @@ Since categories and channels share very similar permissions, we will be editing
 
 1. **Select the channel you want to modify the permissions for.**
 
-<img src="https://kaydens.ca/user-docs-discord/assets/images/edit_channel.PNG" alt="Editing a channel."/>
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/edit_channel.PNG" alt="Editing a channel."/>
 
 2. **Select the permissions tab in the channel menu. Add the permissions as needed.**
 
