@@ -1,5 +1,6 @@
 ---
 title: Test Markdown (Kayden)
+nav_exclude: true
 ---
 
 
