@@ -35,7 +35,7 @@ We will start with general instructions for getting a bot on your server, and th
 
     ![Discord "Invite to server" panel for adding bots to servers. Interactable text: Select a server, cancel, continue](https://kaydens.ca/user-docs-discord/assets/images/invite_to_server_panel.png)
 
-    <img src="https://kaydens.ca/user-docs-discord/assets/images/note.png" alt="Note." style="height: 50px"/> **Note:** If you choose not to provide certain permissions, the bot's functionality may be limited.
+<img src="https://kaydens.ca/user-docs-discord/assets/images/note.png" alt="Note." style="height: 50px"/> **Note:** If you choose not to provide certain permissions, the bot's functionality may be limited.
 4. **Select appropriate permissions.**
 
     To finish inviting the bot to your server, you may be prompted to provide it with permissions. 
@@ -48,17 +48,17 @@ We will start with general instructions for getting a bot on your server, and th
 
 ## Setting Up the Bot
 
-1. **Follow the bot's instructions (if applicable).**
+6. **Follow the bot's instructions (if applicable).**
 
     Some bots have a setup process that starts upon inviting the bot. Follow its instructions before continuing.
 
-2. **Find the command prefix.**
+7. **Find the command prefix.**
 
     While this can differ between bots, you can usually `mention` the bot using the `@` symbol, followed by a space and your command, and it should respond.
 
     Bots typically have a `prefix` command; you should be able to use that to discover and/or set the prefix.
 
-3. **Explore the bot's functionality.**
+8. **Explore the bot's functionality.**
 
     Each bot will work differently, so make sure to explore what's available. Almost every bot has a `help` command, so invoke that using the prefix you found in step 7.
 
