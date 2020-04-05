@@ -44,9 +44,6 @@ footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: "dark"
 
-# Markdown parser
-markdown: CommonMarkGhPages
-
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 ga_tracking: UA-2709176-10
