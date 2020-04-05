@@ -53,6 +53,7 @@ Discord is a communication powerhouse, and for many communities, it is the main 
 |:-------------|:------------------|:------|
 | Typed Commands | `code` | `@mentions`  |
 | Clickable Commands | *`code`*   | *`Save Changes`*  |
+| Sent Messages | ```code blocks```   | ```!hbd```  |
 
 
 <img src="https://kaydens.ca/user-docs-discord/assets/images/note.png" alt="Note." style="height: 50px"/> **Note:** This indicates information you should take note of.
