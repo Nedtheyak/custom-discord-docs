@@ -11,6 +11,11 @@ When in a server community, it is be hard to manage a large amount of users. Ser
 
 This section of the documentation will show you how to create roles, what options you can enable/disable, how you can assign roles to users and changing permissions for categories and channels.
 
+## Table of Contents
+{:toc}
+
+---
+
 ## Roles
 
 In a server, roles are often seen as one of the most important tools to enforce server rules and management. It is important to set them up before opening up your server to other users.  
@@ -23,7 +28,7 @@ In a server, roles are often seen as one of the most important tools to enforce 
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/server_settings.PNG" alt="Server Settings option."/>
 
-2. **Go into the Roles menu by clicking the option in the sidebar.**
+2. **Go into the Roles menu by clicking the option in the sidebar. You may now view your roles.**
 
 Once you've entered the Roles menu, you will see all the information concerning the current roles for the server. Take a moment and look through each of the permissions you can grant. 
 
@@ -96,6 +101,8 @@ Now that you've created your new role, you can assign it to a user in the server
     <img src="https://kaydens.ca/user-docs-discord/assets/images/given_test_role.PNG" alt="Adding a new role to a user."/>
 
     The user will now be given all permissions under the role. If a user has a role that enables some permissions that the role that was assigned to them disables, the permissions will **NOT** be disabled. Role permissions have an upwards hierarchy, the role with the most power will be the prevailing one used for user.
+
+---
 
 ## Categories And Channels
 

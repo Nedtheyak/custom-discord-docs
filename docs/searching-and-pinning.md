@@ -11,8 +11,10 @@ In Discord, it is possible to search for and pin any prior messages sent. Discor
 
 The purpose of this section is show you how to both search for specific messages, as well as pin them for easy access in the channel or conversation.
 
----
+## Table of Contents
+{:toc}
 
+---
 ## Searching for a Specific Message
 
 Let's assume we are searching for an image sent by another user.
@@ -48,6 +50,8 @@ Let's assume we are searching for an image sent by another user.
     <img src="https://kaydens.ca/user-docs-discord/assets/images/jump-to-message.PNG" alt="Jumping to a Discord message."/>
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/jumped.PNG" alt="Jumping to a Discord message."/>
+
+---
 
 ## Pinning a Message
 
