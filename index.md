@@ -27,7 +27,7 @@ Our documentation was written while using the Windows 10 version of Discord. Tho
 
 ## Prerequisites and Software Version
 
-We will be using the latest version of Discord for this documentation. Discord runs on the subsequent operating systems.
+We will be using the latest version of Discord for this documentation. Discord runs on the subsequent operating systems:
 
 - **Windows:** 7 and up
 - **MacOS:** 10.0 and up (Yosemite)
