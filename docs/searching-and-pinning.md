@@ -28,7 +28,7 @@ Let's assume we are searching for an image sent by another user.
     
 3. Filter for the message.
 
-    You will see an abundant amount of options to choose from. To find an image, we will use the **has:** option.
+    You will see an abundant amount of options to choose from. To find an image, we will use the `has:` option.
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/searching_for_has.PNG" alt="Search bar with displayed options."/>
 
