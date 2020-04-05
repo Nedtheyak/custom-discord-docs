@@ -51,7 +51,7 @@ We will start with general instructions for getting a bot on your server, and th
 
 ## Setting Up the Bot
 
-{:start="6"}
+{: start="6"}
 6. **Follow the bot's instructions (if applicable).**
 
     Some bots have a setup process that starts upon inviting the bot. Follow its instructions before continuing.
