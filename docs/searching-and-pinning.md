@@ -11,6 +11,7 @@ In Discord, it is possible to search for and pin any prior messages sent. Discor
 
 The purpose of this section is show you how to both search for specific messages, as well as pin them for easy access in the channel or conversation.
 
+{: .no_toc }
 ## Table of Contents
 1. TOC
 {:toc}

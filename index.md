@@ -13,6 +13,7 @@ This is the (unoffical) user documentation for Discord. This documentation was c
 
 This guide presumes you have a basic understanding of Discord already, and that you have at joined at least one server or have at least one direct message conversation. We also recommend this documentation if you are planning on starting your own server, or have been recently been promoted to an administrative position in.
 
+{: .no_toc }
 ## Table of Contents
 1. TOC
 {:toc}

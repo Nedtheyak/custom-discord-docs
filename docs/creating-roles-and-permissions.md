@@ -11,6 +11,7 @@ When in a server community, it is be hard to manage a large amount of users. Ser
 
 This section of the documentation will show you how to create roles, what options you can enable/disable, how you can assign roles to users and changing permissions for categories and channels.
 
+{: .no_toc }
 ## Table of Contents
 1. TOC
 {:toc}

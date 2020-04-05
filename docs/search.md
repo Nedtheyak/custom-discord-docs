@@ -9,6 +9,7 @@ nav_order: 98
 
 Any questions or issues during one of the documented tasks on Discord will be answered here.
 
+{: .no_toc }
 ## Table of contents
 1. TOC
 {:toc}

@@ -11,6 +11,7 @@ Bots are great as a regular point of discussion, or a means of moderating your s
 
 We will start with general instructions for getting a bot on your server, and then walk you through setting up some popular bots.
 
+{: .no_toc }
 ## Table of Contents
 1. TOC
 {:toc}
