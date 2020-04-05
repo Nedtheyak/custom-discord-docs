@@ -12,7 +12,6 @@ Any questions or issues during one of the documented tasks on Discord will be an
 ## Table of contents
 1. TOC
 {:toc}
-
 ---
 
 ## My bot isn't responding/working as expected!
