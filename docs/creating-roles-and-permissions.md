@@ -107,10 +107,30 @@ Just like for users, it is possible to change permissions for categories and cha
 
 Since categories and channels share very similar permissions, we will be editing the permissions on a channel. 
 
-1. **Right-click the channel you want to modify the permissions for.**
+1. **Select the channel you want to modify the permissions for.**
+
+<img src="https://kaydens.ca/user-docs-discord/assets/images/edit_channel.PNG" alt="Editing a channel."/>
 
 2. **Select the permissions tab in the channel menu. Add the permissions as needed.**
 
-    You can add permissions based on roles, you can restrict reading and sending messages based on the role a user has.
+    You can add permissions based on roles, you can restrict reading and sending messages based on the role a user has. If you create a channel underneath a category, the channel will automatically sync to the permissions of the category first.
 
-    
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/channel_permissions.PNG" alt="Channel options."/>
+
+    As seen in here, it is synced with the `actual-school` category and the only role that the permissions are modified for are for `@everyone`, which all users have. Like creating roles, you can add roles to different permissions for by clicking the small `+` (plus-sign) symbol next to `Roles/Members`. 
+
+    We will now modify some permissions for the channel.
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/channel_general_permissions.PNG" alt="General Permissions."/>
+
+    We have changed the general permissions for this channel to disallow invites directly to the channel.
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/channel_text_permissions.PNG" alt="Text permissions."/>
+
+    We have also changed the text permissions to disable messages being played in TTS, as well as messages cannot be deleted or pinned by members. Finally, we have disabled pinging to large roles like `@everyone`, `@here` and `@mention` for roles.
+
+3. **Select `Save Changes` once you are done editting your permissions.**
+
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/save_changes_channels.PNG" alt="Save Changes."/>
+
+    Once you've saved your changes, the effects will be applied immediately. 
