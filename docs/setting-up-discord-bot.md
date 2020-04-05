@@ -21,7 +21,7 @@ We will start with general instructions for getting a bot on your server, and th
 
 2. **Find the bot's invite link.**
 
-    You'll need to find and click the link to invite the bot to the server. If your bot is from [top.gg](https://top.gg/), the bot's page will have a clearly marked "Invite" button:
+    You'll need to find and click the link to invite the bot to the server. If your bot is on [top.gg](https://top.gg/), the bot's page will have a clearly marked "Invite" button:
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/topgg_invite_button.png" alt="Bot invite button on the website top.gg from main bot page" style="height: 220px" />
 
