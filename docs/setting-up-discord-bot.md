@@ -13,6 +13,8 @@ We will start with general instructions for getting a bot on your server, and th
 
 1. TOC
 {:toc}
+---
+
 
 ## Inviting a Bot
 
