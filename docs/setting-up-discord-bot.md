@@ -17,7 +17,7 @@ We will start with general instructions for getting a bot on your server, and th
 
     You'll need to choose a bot to match your purposes. Bot list websites like [top.gg](https://top.gg/) can help you find one easily. For the sake of this guide, we'll be using the multi-purpose bot [UnbelievaBoat](https://unbelievaboat.com/).
 
-**Note:** Mark down the website where you find this link or button, it may have useful information or troubleshooting help related to your particular bot.
+<img src="https://kaydens.ca/user-docs-discord/assets/images/note.png" alt="Note." style="height: 50px"/> **Note:** Mark down the website where you find this link or button, it may have useful information or troubleshooting help related to your particular bot.
 
 2. **Find the bot's invite link.**
 
