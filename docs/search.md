@@ -10,8 +10,6 @@ nav_order: 98
 Any questions or issues during one of the documented tasks on Discord will be answered here.
 
 ## Table of contents
-{: .no_toc .text-delta }
-
 1. TOC
 {:toc}
 
