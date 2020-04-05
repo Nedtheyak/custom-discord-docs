@@ -33,7 +33,7 @@ We will start with general instructions for getting a bot on your server, and th
 
     ![Discord "Invite to server" panel for adding bots to servers. Interactable text: Select a server, cancel, continue](https://kaydens.ca/user-docs-discord/assets/images/invite_to_server_panel.png)
 
->! this is testing markdown spoilers
+<script>alert('hi');</script>
 
 ## Setting up MEE6 (optional)
 
