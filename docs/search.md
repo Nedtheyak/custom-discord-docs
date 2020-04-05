@@ -39,7 +39,7 @@ If your bot is not responding as expected, here are some tips for reasonable mea
 
     Look in the support server for the bot. See if there is anyone asking about the same problem, or if there are any recent messages from staff regarding this issue.
 
-<img src="https://kaydens.ca/user-docs-discord/assets/images/warning.png" alt="Caution."/> **Caution**: Be very polite, and be careful not to mention (with the `@` symbol) people about your issue unless they explicitly ask for it. Your issue may be timely, but mentioning them will likely only annoy them. Follow their rules carefully, and you are much more likely to be helped.
+<img src="https://kaydens.ca/user-docs-discord/assets/images/warning.png" alt="Caution." style="height: 50px"/> **Caution**: Be very polite, and be careful not to mention (with the `@` symbol) people about your issue unless they explicitly ask for it. Your issue may be timely, but mentioning them will likely only annoy them. Follow their rules carefully, and you are much more likely to be helped.
 
 5. **Ask for help from staff.**
 

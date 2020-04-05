@@ -103,7 +103,7 @@ Now that you've created your new role, you can assign it to a user in the server
 
     The user will now be given all permissions under the role. 
     
-    <img src="https://kaydens.ca/user-docs-discord/assets/images/note.jpg" alt="Note."/> **Note:** If a user has a role that enables some permissions that the role that was assigned to them disables, the permissions will **NOT** be disabled. Role permissions have an upwards hierarchy, the role with the most power will be the prevailing one used for user.
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/note.png" alt="Note." style="height: 50px"/> **Note:** If a user has a role that enables some permissions that the role that was assigned to them disables, the permissions will **NOT** be disabled. Role permissions have an upwards hierarchy, the role with the most power will be the prevailing one used for user.
 
 ---
 

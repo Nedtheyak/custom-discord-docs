@@ -35,7 +35,7 @@ We will start with general instructions for getting a bot on your server, and th
 
     ![Discord "Invite to server" panel for adding bots to servers. Interactable text: Select a server, cancel, continue](https://kaydens.ca/user-docs-discord/assets/images/invite_to_server_panel.png)
 
-    <img src="https://kaydens.ca/user-docs-discord/assets/images/note.jpg" alt="Note."/> **Note:** If you choose not to provide certain permissions, the bot's functionality may be limited.
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/note.png" alt="Note." style="height: 50px"/> **Note:** If you choose not to provide certain permissions, the bot's functionality may be limited.
 4. **Select appropriate permissions.**
 
     To finish inviting the bot to your server, you may be prompted to provide it with permissions. 
