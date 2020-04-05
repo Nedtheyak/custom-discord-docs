@@ -43,7 +43,7 @@ This is the customization section for roles. You can change the name, colour and
 
 **Role Permissions**
 
-<img src="https://kaydens.ca/user-docs-discord/assets/images/roles_menu_permissions.png" alt="Permissions."/>
+<img src="https://kaydens.ca/user-docs-discord/assets/images/roles_menu_permissions.png" alt="Permissions." style="height: 950px"/>
 
 These are the general permissions for the role you've currently selected. There are also text and voice specific permissions. You can grant or restrict them here.
 
@@ -115,7 +115,7 @@ Since categories and channels share very similar permissions, we will be editing
 
     You can add permissions based on roles, you can restrict reading and sending messages based on the role a user has. If you create a channel underneath a category, the channel will automatically sync to the permissions of the category first.
 
-    <img src="https://kaydens.ca/user-docs-discord/assets/images/channel_permissions.PNG" alt="Channel options."/>
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/channel_permissions.PNG" alt="Channel options." style="height: 950px"/>
 
     As seen in here, it is synced with the `actual-school` category and the only role that the permissions are modified for are for `@everyone`, which all users have. Like creating roles, you can add roles to different permissions for by clicking the small `+` (plus-sign) symbol next to `Roles/Members`. 
 
@@ -125,7 +125,7 @@ Since categories and channels share very similar permissions, we will be editing
 
     We have changed the general permissions for this channel to disallow invites directly to the channel.
 
-    <img src="https://kaydens.ca/user-docs-discord/assets/images/channel_text_permissions.PNG" alt="Text permissions."/>
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/channel_text_permissions.PNG" alt="Text permissions." style="height: 950px"/>
 
     We have also changed the text permissions to disable messages being played in TTS, as well as messages cannot be deleted or pinned by members. Finally, we have disabled pinging to large roles like `@everyone`, `@here` and `@mention` for roles.
 
