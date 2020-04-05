@@ -4,3 +4,6 @@
 _site
 Gemfile.lock
 node_modules
+*.kra
+*.png~
+assets/images/topgg_invite_button_small.png
