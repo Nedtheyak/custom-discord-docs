@@ -4,8 +4,10 @@ title: Troubleshooting
 nav_order: 98
 ---
 
-# Search
+# Troubleshooting
 {: .no_toc }
+
+Any questions or issues during one of the documented tasks on Discord will be answered here.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -15,71 +17,36 @@ nav_order: 98
 
 ---
 
-Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points:
+## My bot isn't responding/working as expected!
 
-- Page title
-- Page content
-- Page URL
+If your bot is not responding as expected, here are some tips for reasonable measures.
+    
+1. **Give the bot some time to respond.**
 
-## Set up search
+    Be patient. Give it a minute, then try your command again.
 
-### Generate search index
+    If the bot is offline, give it 5-10 minutes to come back online. 
 
-Before you can use search, you must initialize the feature by running this `rake` command that comes with `just-the-docs`:
+2. **Check your syntax (prefix, command name).**
 
-```bash
-$ bundle exec just-the-docs rake search:init
-```
+    It may sound silly, but check for typos in your message. Make sure you're using the right prefix. Maybe even try a different command that you used earlier, which you know should work.
 
-This command creates the `search-data.json` file that Jekyll uses to create your search index. Alternatively, you can create the file manually in the `assets/js/` directory of your Jekyll site with this content:
+3. **Check their website.**
 
-```liquid
-{% raw %}---
----
-{
-  {% assign comma = false %}
-  {% for page in site.html_pages %}{% if page.search_exclude != true %}{% if comma == true%},{% endif %}"{{ forloop.index0 }}": {
-    "title": "{{ page.title | replace: '&amp;', '&' }}",
-    "content": "{{ page.content | markdownify | replace: '</h', ' . </h' | replace: '<hr', ' . <hr' | replace: '</p', ' . </p' | replace: '</ul', ' . </ul' | replace: '</tr', ' . </tr' | replace: '</li', ' | </li' | replace: '</td', ' | </td' | strip_html | escape_once | remove: 'Table of contents' | remove: '```'  | remove: '---' | replace: '\', ' ' | replace: ' .  .  . ', ' . ' | replace: ' .  . ', ' . ' | normalize_whitespace }}",
-    "url": "{{ page.url | absolute_url }}",
-    "relUrl": "{{ page.url }}"
-  }{% assign comma = true %}
-  {% endif %}{% endfor %}
-}{% endraw %}
-```
+    Check the bot's website for information about potential downtime or recent changes, if available.
 
-_Note: If you don't run this rake command or create this file manually, search will not work (or it will use the search index data from this docs site, not your site's content)._
+4. **Check their Discord server.**
 
-### Enable search in configuration
+    Look in the support server for the bot. See if there is anyone asking about the same problem, or if there are any recent messages from staff regarding this issue.
 
-In your site's `_config.yml`, enable search:
+<img src="https://kaydens.ca/user-docs-discord/assets/images/warning.png" alt="Caution."/> **Caution**: Be very polite, and be careful not to mention (with the `@` symbol) people about your issue unless they explicitly ask for it. Your issue may be timely, but mentioning them will likely only annoy them. Follow their rules carefully, and you are much more likely to be helped.
 
-```yaml
-# Enable or disable the site search
-search_enabled: true
-```
+5. **Ask for help from staff.**
 
-The default is for hyphens to separate tokens in search terms:
-`gem-based` is equivalent to `gem based`, matching either word.
-To allow search for hyphenated words:
+    Humbly ask for help in their Discord server (or any other platform, if available). Ideally you will get an accurate response from a staff member, but often the community can help, as well. Be open to hearing advice from anyone.
 
-```yaml
-# Set the search token separator
-search_tokenizer_separator: /[\s/]+/
-```
+6. **Investigate other options.**
 
-## Hiding pages from search
-
-Sometimes you might have a page that you don't want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the `search_exclude: true` parameter to the page's YAML front matter:
-
-#### Example
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: Page not found
-nav_exclude: true
-search_exclude: true
----
-```
+    If you still can't get the bot to work, search for alternatives. Many bots serve the same purpose, so if possible, search websites like [top.gg](https://top.gg/), or simply through your search engine. 
+    
+    Sometimes users your original bot's Discord server will have suggestions about alternatives too, but be wary of angering their community members. Many staff members or community members might be quite partial to this bot, and asking for alternatives within their server can be quite disrespecful. When in doubt, just do your own research.

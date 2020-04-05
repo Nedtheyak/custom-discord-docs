@@ -12,6 +12,7 @@ When in a server community, it is be hard to manage a large amount of users. Ser
 This section of the documentation will show you how to create roles, what options you can enable/disable, how you can assign roles to users and changing permissions for categories and channels.
 
 ## Table of Contents
+1. TOC
 {:toc}
 
 ---
@@ -56,7 +57,7 @@ These are the general permissions for the role you've currently selected. There 
 
 Now onto adding a new role, make sure you have an idea of what roles you want in your server first, and what permissions each one has.
 
-1. **Click the small `+` (plus-sign) symbol at the top right of the roles section.**
+1. **Click the small *`+`* (plus-sign) symbol at the top right of the roles section.**
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/add_new_role.PNG" alt="Add a new role icon."/>
 
@@ -64,7 +65,7 @@ Now onto adding a new role, make sure you have an idea of what roles you want in
 
     You will automatically select the new role once it has been created. You can now enable and disable permissions for the new role.
 
-    Here, we give an example of the permissions a regular server member without administrative powers may have.
+    Here, we give an example of the permissions a regular server member without administrative powers may have. We'll call the role `Test Role`.
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/test_role_general_permissions.PNG" alt="General Permissions."/>
 
@@ -78,7 +79,7 @@ Now onto adding a new role, make sure you have an idea of what roles you want in
 
     These are the voice permissions, our user can connect to voice channels they have permission to join and speak in them. They cannot mute, deafen or move other members out of the voice channel, however.
 
-3. **Once you're happy with your new role, select the `Save Changes` button at the bottom of the menu to save your changes.**
+3. **Once you're happy with your new role, select the *`Save Changes`* button at the bottom of the menu to save your changes.**
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/save_changes.PNG" alt="Save Changes button."/>
 
@@ -86,13 +87,13 @@ Now onto adding a new role, make sure you have an idea of what roles you want in
 
 Now that you've created your new role, you can assign it to a user in the server.
 
-1. **Select the user you want given the role and click the small `+` (plus-sign) symbol next to their current roles.**
+1. **Select the user you want given the role and click the small *`+`* (plus-sign) symbol next to their current roles.**
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/select_the_user.PNG" alt="Adding a new role to a user."/>
 
 2. **Search up the role and assign it.**
 
-    We'll be assign this user the `Test Role` we just created.
+    We'll be assign this user the *`Test Role`* we just created.
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/adding_role_to_user.PNG" alt="Adding a new role to a user."/>
 
@@ -100,7 +101,9 @@ Now that you've created your new role, you can assign it to a user in the server
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/given_test_role.PNG" alt="Adding a new role to a user."/>
 
-    The user will now be given all permissions under the role. If a user has a role that enables some permissions that the role that was assigned to them disables, the permissions will **NOT** be disabled. Role permissions have an upwards hierarchy, the role with the most power will be the prevailing one used for user.
+    The user will now be given all permissions under the role. 
+    
+    <img src="https://kaydens.ca/user-docs-discord/assets/images/note.jpg" alt="Note."/> **Note:** If a user has a role that enables some permissions that the role that was assigned to them disables, the permissions will **NOT** be disabled. Role permissions have an upwards hierarchy, the role with the most power will be the prevailing one used for user.
 
 ---
 
@@ -124,7 +127,7 @@ Since categories and channels share very similar permissions, we will be editing
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/channel_permissions.PNG" alt="Channel options." style="height: 950px"/>
 
-    As seen in here, it is synced with the `actual-school` category and the only role that the permissions are modified for are for `@everyone`, which all users have. Like creating roles, you can add roles to different permissions for by clicking the small `+` (plus-sign) symbol next to `Roles/Members`. 
+    As seen in here, it is synced with the `actual-school` category and the only role that the permissions are modified for are for `@everyone`, which all users have. Like creating roles, you can add roles to different permissions for by clicking the small *`+`* (plus-sign) symbol next to `Roles/Members`. 
 
     We will now modify some permissions for the channel.
 
@@ -136,7 +139,7 @@ Since categories and channels share very similar permissions, we will be editing
 
     We have also changed the text permissions to disable messages being played in TTS, as well as messages cannot be deleted or pinned by members. Finally, we have disabled pinging to large roles like `@everyone`, `@here` and `@mention` for roles.
 
-3. **Select `Save Changes` once you are done editting your permissions.**
+3. **Select *`Save Changes`* once you are done editting your permissions.**
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/save_changes_channels.PNG" alt="Save Changes."/>
 

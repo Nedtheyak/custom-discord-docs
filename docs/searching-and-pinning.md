@@ -12,6 +12,7 @@ In Discord, it is possible to search for and pin any prior messages sent. Discor
 The purpose of this section is show you how to both search for specific messages, as well as pin them for easy access in the channel or conversation.
 
 ## Table of Contents
+1. TOC
 {:toc}
 
 ---
@@ -61,7 +62,7 @@ You're able to pin messages in a channel or conversation if you have the permiss
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/three_dots.PNG" alt="Three grey dots donoting more options."/>
 
-2. Navigate the dropdown menu and select the `Pin Message` option.
+2. Navigate the dropdown menu and select the *`Pin Message`* option.
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/pin_option.PNG" alt="The pin option in the dropdown menu."/>
 
