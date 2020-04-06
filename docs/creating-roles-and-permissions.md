@@ -145,3 +145,5 @@ Since categories and channels share very similar permissions, we will be editing
     <img src="https://kaydens.ca/user-docs-discord/assets/images/save_changes_channels.PNG" alt="Save Changes."/>
 
     Once you've saved your changes, the effects will be applied immediately. 
+
+Another way to enforce rules and support server moderation is with [using a bot](https://kaydens.ca/user-docs-discord/docs/setting-up-discord-bot/).  
