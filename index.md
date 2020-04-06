@@ -60,3 +60,10 @@ Discord is a communication powerhouse, and for many communities, it is the main 
 <img src="https://kaydens.ca/user-docs-discord/assets/images/note.png" alt="Note." style="height: 50px"/> **Note:** This indicates information you should take note of.
 
 <img src="https://kaydens.ca/user-docs-discord/assets/images/warning.png" alt="Caution." style="height: 50px"/> **Caution:** This indicates to pay close attention to the information here.
+
+## 
+
+
+
+
+Conclusion
