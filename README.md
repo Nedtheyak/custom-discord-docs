@@ -43,11 +43,11 @@ Our use of images was vital in helping the user better understand what exactly t
 
 We used this symbol for notes, 
 
-<img src="https://kaydens.ca/user-docs-discord/assets/images/note.png" alt="Note." style="height: 50px"/>
+<img src="https://kaydens.ca/user-docs-discord/assets/images/note.png" alt="Note." style="height: 25px"/>
 
 and this symbol for warnings,
 
-<img src="https://kaydens.ca/user-docs-discord/assets/images/warning.png" alt="Caution." style="height: 50px"/>
+<img src="https://kaydens.ca/user-docs-discord/assets/images/warning.png" alt="Caution." style="height: 25px"/>
 
 This was done to better emphasize important sections of information that the user reading should pay attention to.
 
