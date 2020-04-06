@@ -67,10 +67,10 @@ You're able to pin messages in a channel or conversation if you have the permiss
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/pin_option.PNG" alt="The pin option in the dropdown menu."/>
 
-3. You will be given a prompt to pin the message, accept it and then navigate to the pin icon top right of the application.
+3. You will be given a prompt to pin the message, accept the prompt.
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/select_the_pinning_option.PNG" alt="Pin prompt."/>
 
-4. Clicking it will reveal that your message is now pinned.
+4. Navigate to the pin icon top right of the application. Clicking it will reveal that your message is now pinned.
 
     <img src="https://kaydens.ca/user-docs-discord/assets/images/pinned_message.PNG" alt="Showing the pinned message."/>
