@@ -30,6 +30,11 @@ We were introduced to VS Code during the web development course during term 1 in
 
 VS Code also has a real time preview menu for markdown files, making it easy for you to see how your changes would affect the displayed information.
 
+### Site Theme
+
+Our documentation is hosted in GitHub Pages, and makes use of the Just The Docs theme. We forked the repository onto one of our own and worked on it through there.
+
+Just The Docs was purposefully developed to help writers focus on the documentation more, compared to having to develop their own specific frameworks for delivering the information easier.
 
 ### Writing Easily Digestible Documentation
 
